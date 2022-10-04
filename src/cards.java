@@ -87,7 +87,7 @@ public class cards extends JFrame  {
 		JLabel picLabel_0 = new JLabel(pic_0);
 		panel1.add(picLabel_0);
 	
-		//adding images to panel 2
+		
 		ImageIcon pic_1 = new ImageIcon("cat_3.jpg"); 
 		Image image_1 = pic_1.getImage();
 		Image newpic_1 = image_1.getScaledInstance(350, 350,  java.awt.Image.SCALE_SMOOTH);   
